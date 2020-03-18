@@ -3,7 +3,6 @@
 }
 
 .countries--first {
-  flex-direction: row;
   align-items: center;
 }
 
@@ -21,8 +20,8 @@
   flex-direction: column-reverse;
   align-items: center;
 }
+/* Add your own CSS code below */
 
 .countries--tall .country {
   height: 20px;
 }
-/* Add your own CSS code below */
