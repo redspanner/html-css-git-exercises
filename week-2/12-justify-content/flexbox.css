@@ -7,7 +7,7 @@
 }
 
 .countries--second {
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .countries--third {
@@ -16,12 +16,7 @@
 }
 
 .countries--fourth {
-  flex-direction: column;
+  flex-direction: column-reverse;
   justify-content: space-around;
 }
-
-.countries--second .country {
-  padding: 0.5em;
-}
-
 /* Add your own CSS code below */
