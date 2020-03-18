@@ -2,4 +2,19 @@
   display: flex;
 }
 
+.countries--first {
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.countries--second {
+  flex-direction: row-reverse;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.countries--second {
+  align-items: flex-start;
+  justify-content: flex-end;
+}
 /* Add your own CSS code below */
